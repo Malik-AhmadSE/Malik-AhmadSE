@@ -133,6 +133,8 @@ Full-stack products spanning dashboards, internal tools, and client-facing apps.
 ## `$` tail -f recent-activity.log
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/mwaris390/stublab-v2/pull/2) in [mwaris390/stublab-v2](https://github.com/mwaris390/stublab-v2)
+2. 💪 Opened PR [#2](https://github.com/mwaris390/stublab-v2/pull/2) in [mwaris390/stublab-v2](https://github.com/mwaris390/stublab-v2)
 <!--END_SECTION:activity-->
 
 <br/>
