@@ -44,12 +44,12 @@ reach_me:  { email: "you@example.com", linkedin: "linkedin.com/in/your-handle" }
 <tr>
 <td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Malik-AhmadSE&show_icons=true&hide_border=true&bg_color=0A0E0F&title_color=35D07F&icon_color=F5B942&text_color=E7ECEA&border_color=1E2A2D&rank_icon=percentile" width="100%"/>
+<img src="images/repo-contrib-stats.svg" width="100%"/>
 
 </td>
 <td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malik-AhmadSE&layout=compact&hide_border=true&bg_color=0A0E0F&title_color=35D07F&text_color=E7ECEA&border_color=1E2A2D&langs_count=8" width="100%"/>
+<img src="images/languages.svg" width="100%"/>
 
 </td>
 </tr>
@@ -65,12 +65,12 @@ reach_me:  { email: "you@example.com", linkedin: "linkedin.com/in/your-handle" }
 
 ### 🏆 Trophy Case
 
-<!-- Primary (may 503 under heavy shared-server load — swap to a mirror below if broken) -->
-<img src="https://github-profile-trophy.vercel.app/?username=Malik-AhmadSE&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%"/>
+<!-- Using a community mirror — more headroom than the official shared instance -->
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Malik-AhmadSE&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%"/>
 
-<!-- Mirrors — replace the src above with one of these if it stays broken for more than a day:
-https://github-profile-trophy-liard-delta.vercel.app/?username=Malik-AhmadSE&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6
+<!-- If this mirror ever goes down too, try:
 https://github-profile-trophy-winning.vercel.app/?username=Malik-AhmadSE&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6
+https://github-profile-trophy.vercel.app/?username=Malik-AhmadSE&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6  (official, most overloaded)
 -->
 
 </div>
