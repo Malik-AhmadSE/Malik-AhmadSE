@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A0E0F,50:12181A,100:0A0E0F&text=AHMAD%20MALIK&fontColor=35D07F&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%E2%80%94%20MERN%20%C2%B7%20ML%20%C2%B7%20Automated%20Trading%20Systems&descAlignY=58&descSize=16&descColor=F5B942&animation=fadeIn" width="100%"/>
@@ -56,7 +55,7 @@ reach_me:  { email: "you@example.com", linkedin: "linkedin.com/in/your-handle" }
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Malik-AhmadSE&hide_border=true&background=0A0E0F&stroke=1E2A2D&ring=35D07F&fire=F5B942&currStreakLabel=35D07F&sideLabels=E7ECEA&currStreakNum=E7ECEA&sideNums=E7ECEA&dates=7C8C88" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=Malik-AhmadSE&hide_border=true&background=0A0E0F&stroke=1E2A2D&ring=35D07F&fire=F5B942&currStreakLabel=35D07F&sideLabels=E7ECEA&currStreakNum=E7ECEA&sideNums=E7ECEA&dates=7C8C88" width="60%"/>
 
 </div>
 
@@ -66,7 +65,13 @@ reach_me:  { email: "you@example.com", linkedin: "linkedin.com/in/your-handle" }
 
 ### 🏆 Trophy Case
 
+<!-- Primary (may 503 under heavy shared-server load — swap to a mirror below if broken) -->
 <img src="https://github-profile-trophy.vercel.app/?username=Malik-AhmadSE&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%"/>
+
+<!-- Mirrors — replace the src above with one of these if it stays broken for more than a day:
+https://github-profile-trophy-liard-delta.vercel.app/?username=Malik-AhmadSE&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6
+https://github-profile-trophy-winning.vercel.app/?username=Malik-AhmadSE&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6
+-->
 
 </div>
 
