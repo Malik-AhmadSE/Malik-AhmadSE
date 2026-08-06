@@ -28,11 +28,23 @@ reach_me:  { email: "you@example.com", linkedin: "linkedin.com/in/your-handle" }
 
 <br/>
 
+## `$` cat now.md
+
+- 🔭 **Building:** a systematic strategy backtester with realistic slippage/fee modeling
+- 🧪 **Researching:** reinforcement learning for trade execution timing
+- 📚 **Learning:** deeper statistical methods for signal validation
+- 🎯 **2026 goal:** ship one strategy from research → paper trading → live, end to end
+- 💬 **Ask me about:** MERN architecture, ML pipelines, or backtesting pitfalls
+
+<br/>
+
 <div align="center">
 
-### 📈 Contribution Activity
+### 📈 Commit Ticker — Signature Chart
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Malik-AhmadSE&theme=react-dark&bg_color=0A0E0F&color=35D07F&line=35D07F&point=F5B942&area=true&hide_border=true&area_color=35D07F" width="100%"/>
+<img src="images/commit-ticker.svg" width="100%"/>
+
+<sub>Hand-built from raw GitHub contribution data — green candles on up-days, red on down-days, no third-party rendering service involved.</sub>
 
 </div>
 
@@ -72,6 +84,58 @@ reach_me:  { email: "you@example.com", linkedin: "linkedin.com/in/your-handle" }
 https://github-profile-trophy-winning.vercel.app/?username=Malik-AhmadSE&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6
 https://github-profile-trophy.vercel.app/?username=Malik-AhmadSE&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6  (official, most overloaded)
 -->
+
+<br/>
+
+### 🧊 Contribution Grid — 3D
+
+<img src="./profile-3d-contrib/profile-night-green.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+## `$` cat featured-builds.md
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**⚡ Strategy Backtester**
+<br/><sub>Python · pandas · ccxt</sub>
+
+Event-driven backtesting engine for evaluating trading strategies against historical OHLCV data before they touch real capital.
+
+</td>
+<td width="33%" valign="top">
+
+**🧠 Signal Research**
+<br/><sub>Python · scikit-learn · PyTorch</sub>
+
+Feature engineering and model experiments turning raw market data into usable trade signals.
+
+</td>
+<td width="33%" valign="top">
+
+**🌐 MERN Applications**
+<br/><sub>React · Node · MongoDB</sub>
+
+Full-stack products spanning dashboards, internal tools, and client-facing apps.
+
+</td>
+</tr>
+</table>
+
+<sub>Replace the three cards above with your actual flagship repos — this is hand-written context a stats card can't generate on its own.</sub>
+
+<br/>
+
+## `$` tail -f recent-activity.log
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br/>
 
 </div>
 
