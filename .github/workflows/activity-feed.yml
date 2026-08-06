@@ -1,0 +1,22 @@
+name: update activity feed
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    name: update readme with recent activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          GH_USERNAME: Malik-AhmadSE
+          MAX_LINES: 6
+          COMMIT_MSG: "chore: refresh recent activity feed"
