@@ -1,4 +1,4 @@
-# effective-pancake
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A0E0F,50:12181A,100:0A0E0F&text=AHMAD%20MALIK&fontColor=35D07F&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%E2%80%94%20MERN%20%C2%B7%20ML%20%C2%B7%20Automated%20Trading%20Systems&descAlignY=58&descSize=16&descColor=F5B942&animation=fadeIn" width="100%"/>
