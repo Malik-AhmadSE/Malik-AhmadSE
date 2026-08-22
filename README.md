@@ -67,7 +67,7 @@ reach_me:  { email: "malikahmadse@gmail.com", linkedin: "https://www.linkedin.co
 </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com/?user=Malik-AhmadSE&hide_border=true&background=0A0E0F&stroke=1E2A2D&ring=35D07F&fire=F5B942&currStreakLabel=35D07F&sideLabels=E7ECEA&currStreakNum=E7ECEA&sideNums=E7ECEA&dates=7C8C88" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=Malik-AhmadSE&hide_border=true&stroke=1E2A2D&ring=35D07F&fire=F5B942&currStreakLabel=35D07F&sideLabels=E7ECEA&currStreakNum=E7ECEA&sideNums=E7ECEA&dates=7C8C88" width="60%"/>
 
 </div>
 
