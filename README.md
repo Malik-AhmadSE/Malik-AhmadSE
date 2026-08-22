@@ -23,7 +23,7 @@ role:      Software Engineer
 stack:     MERN (MongoDB · Express · React · Node)
 domains:   Machine Learning · Automated Trading Bots · Financial Research
 currently: { building: "strategy backtester", learning: "reinforcement learning for execution" }
-reach_me:  { email: "you@example.com", linkedin: "linkedin.com/in/your-handle" }
+reach_me:  { email: "malikahmadse@gmail.com", linkedin: "https://www.linkedin.com/in/ahmad-ali-malik" }
 ```
 
 <br/>
