@@ -73,19 +73,7 @@ reach_me:  { email: "malikahmadse@gmail.com", linkedin: "https://www.linkedin.co
 
 <br/>
 
-<div align="center">
 
-### 🏆 Trophy Case
-
-<!-- Using a community mirror — more headroom than the official shared instance -->
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Malik-AhmadSE&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%"/>
-
-<!-- If this mirror ever goes down too, try:
-https://github-profile-trophy-winning.vercel.app/?username=Malik-AhmadSE&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6
-https://github-profile-trophy.vercel.app/?username=Malik-AhmadSE&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6  (official, most overloaded)
--->
-
-<br/>
 
 ### 🧊 Contribution Grid — 3D
 
